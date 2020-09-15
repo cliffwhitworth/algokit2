@@ -35,6 +35,4 @@ print(matrix.show())
 print(matrix.transpose())
 print(matrix.row(4))
 print(matrix.col(3))
-
-# Saddle points
 print(matrix.saddle_points())
